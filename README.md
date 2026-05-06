@@ -1,4 +1,4 @@
-# CSE321:Database System Assignments Repository
+# CSE321:Database System Assignments
 
 This repository stores the assignment submissions for CSE321: Database Systems.
 

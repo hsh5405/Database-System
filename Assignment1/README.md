@@ -2,11 +2,6 @@
 
 This repository contains the Python implementation and experiments for CSE321 Project 1, covering B-tree, B*-tree, B+-tree, and an additional layered_B+-tree experiment.
 
-## Author
-
-- Student ID: 20211356
-- Name: Han SeungHo
-
 ## Environment
 
 - Language: Python
